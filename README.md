@@ -6,14 +6,15 @@ Something like https://nordicapis.com/8-keys-to-creating-a-truly-usable-api/ is 
 
 In comparing web service APIs I suggest the following features are of interest:
 
-•	What is the maximum acceptable rate of requests?
-•	What is the maximum length of a 'page' of returned results?
-•	How is 'paging' handled?
-•	How are composite objects handled?
-•	How are parent/child relationships handled?
-•	Do calls make use of relatively easy to understand expressions linked together in predictable ways or are they hard for humans to read?
-•	What formats are results returnable in?
-•	Are results heavily nested, requiring forensic examination of the tree?
-•	Does the documentation help you get started quickly and relate to the real use cases researchers actually have?
+<ul>
+<li>What is the maximum acceptable rate of requests?
+<li>What is the maximum length of a 'page' of returned results?
+<li>How is 'paging' handled?
+<li>How are composite objects handled?
+<li>How are parent/child relationships handled?
+<li>Do calls make use of relatively easy to understand expressions linked together in predictable ways or are they hard for humans to read?
+<li>What formats are results returnable in?
+<li>Are results heavily nested, requiring forensic examination of the tree?
+<li>Does the documentation help you get started quickly and relate to the real use cases researchers actually have?
 
 If anyone has any other suggestions regarding this I’d really like to hear them and they can be added to the list. 
