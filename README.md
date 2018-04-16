@@ -29,3 +29,7 @@ In comparing web service APIs I suggest the following features are of interest:
 <li>Does the documentation help you get started quickly and relate to the real use cases researchers actually have?
 
 If anyone has any other suggestions regarding this I’d really like to hear them and they can be added to the list. 
+
+<h3> Sins of web apis </h3>
+
+* Fail to escape characters properly so calls are obliged to incorporate %20 or other weirdness.
