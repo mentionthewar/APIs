@@ -33,3 +33,5 @@ If anyone has any other suggestions regarding this I’d really like to hear the
 <h3> Sins of web apis </h3>
 
 * Fail to escape characters properly so calls are obliged to incorporate %20 or other weirdness.
+* not breaking down entities sufficienctly - e.g. AMPAS orgs and people
+* not exposting obvious entities (e.g. BFI)
